@@ -1,0 +1,9 @@
+uygulama içerisinde ;
+Authentication işlemi
+Rehbere kullanıcı ekleme
+Rehberden kullanıcı silme
+Rehberdeki kullanıcıyı düzenleme
+uygulama içi resim yükleme var
+
+mail:tufan@tufan.com
+parola:123456
